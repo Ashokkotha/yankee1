@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/jxl-1.0.jar/jxl-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/com.mysql.jdbc_5.1.5.jar.zip"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/jdbc-api-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/jdbc-api-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/jxl-1.0.jar.zip"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/selenium-java-2.53.0.zip"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/sqljdbc-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/Library/testng-6.0.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
